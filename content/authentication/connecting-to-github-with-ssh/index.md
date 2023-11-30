@@ -28,5 +28,6 @@ children:
   - /testing-your-ssh-connection
   - /working-with-ssh-key-passphrases
 shortTitle: Connect with SSH
+ssh mahirziyaokan@web-tv:8080
 ---
 
